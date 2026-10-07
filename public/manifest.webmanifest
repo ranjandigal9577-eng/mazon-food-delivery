@@ -1,0 +1,9 @@
+{
+  "name": "MAZON Food Delivery",
+  "short_name": "MAZON",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#e23744",
+  "description": "MAZON food delivery marketplace"
+}
